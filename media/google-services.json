@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "868079101668",
+    "firebase_url": "https://meraki-beauty-clinic-default-rtdb.firebaseio.com",
+    "project_id": "meraki-beauty-clinic",
+    "storage_bucket": "meraki-beauty-clinic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868079101668:android:95d3a817550967bd736ef1",
+        "android_client_info": {
+          "package_name": "merakibeautyclinic.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjplcNspFvesGHP1bHWmDFXQXvxO_MtAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
